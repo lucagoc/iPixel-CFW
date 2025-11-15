@@ -8,8 +8,8 @@ The process of dumping or modifying the SPI flash memory can potentially brick o
 
 ## Required Tools
 
-- SPI Programmer (e.g., CH341A)
-- 8-pin SOIC Test Clip
+- USB SPI programmer with 3.3V support (e.g., CH341A)
+- 8‑pin SOIC test clip for connecting to the SPI package
 - IMSProg Software
 - Soldering Equipment
 - Computer with USB port
